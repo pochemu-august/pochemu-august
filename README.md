@@ -122,8 +122,6 @@ identity:
 
 </div>
 
-> ⚠️ Змейка появится только после настройки GitHub Action — инструкция в конце файла.
-
 ---
 
 <h2 align="center">🏆 Trophies</h2>
