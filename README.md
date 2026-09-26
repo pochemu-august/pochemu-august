@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Матричный баннер -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=220&section=header&text=pochemu-august&fontSize=55&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=%3E%20whoami%20::%20cybersecurity%20%26%20systems&descAlignY=58&descSize=18&descColor=39ff14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=220&section=header&text=pochemu-august&fontSize=55&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=%3E%20whoami%20%3A%3A%20cybersecurity%20%26amp%3B%20systems&descAlignY=58&descSize=18&descColor=39ff14" width="100%"/>
 
 <!-- Печатная машинка -->
 <a href="https://git.io/typing-svg">
@@ -150,9 +150,3 @@ identity:
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=120&section=footer"/>
-
-**"In a world of firewalls, be the one who understands both sides."**
-
-</div>
-
----
