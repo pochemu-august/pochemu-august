@@ -40,8 +40,8 @@
 
 <div align="center">
 
-<img width="49%" src="./profile/stats.svg"/>
-<img width="49%" src="./profile/top-langs.svg"/>
+<img width="100%" src="./profile/stats.svg"/>
+<img width="100%" src="./profile/top-langs.svg"/>
 
 <img width="100%" src="./profile/streak.svg"/>
 
