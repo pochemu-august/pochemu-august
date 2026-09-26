@@ -1,71 +1,40 @@
 <div align="center">
 
-<!-- Матричный баннер -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=220&section=header&text=pochemu-august&fontSize=55&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=%3E%20whoami%20%3A%3A%20cybersecurity%20%26amp%3B%20systems&descAlignY=58&descSize=18&descColor=39ff14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=pochemu-august&fontSize=50&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=%3E%20whoami%20%3A%3A%20cybersecurity%20%26amp%3B%20systems&descAlignY=58&descSize=16&descColor=39ff14" width="100%"/>
 
-<!-- Печатная машинка -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=root%40pochemu-august%3A~%23+access+granted;Pentester+%7C+Reverse+Engineer+%7C+CTF+player;Building+secure+systems+%2F%2F+breaking+insecure+ones;sudo+rm+-rf+%2Fvulnerabilities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=root%40pochemu-august%3A~%23+access+granted;Pentester+%7C+Reverse+Engineer+%7C+CTF+player;sudo+rm+-rf+%2Fvulnerabilities" alt="Typing SVG" />
 </a>
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=pochemu-august&label=SECURITY%20SCAN%20%3A%3A%20PROFILE%20VIEWS&style=for-the-badge&color=39ff14&labelColor=0d1117)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  [SYSTEM]  Initializing secure connection...                       ║
-║  [STATUS]  Encryption: AES-256  |  Handshake: OK  |  Trust: VERIFIED║
-║  [USER]    pochemu-august — offensive & defensive security         ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+![Profile Views](https://komarev.com/ghpvc/?username=pochemu-august&label=PROFILE%20VIEWS&style=flat-square&color=39ff14&labelColor=0d1117)
 
 </div>
 
 ---
 
-<h2 align="center">📡 Connect / Recon</h2>
-
-<div align="center">
+### Connect
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/user48393)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guts5612@gmail.com)
 [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-@rocksfes-green?style=for-the-badge&logo=hackthebox&logoColor=white)](https://profile.hackthebox.com/profile/019f3686-2b9f-7378-9645-4bf4c54ecfdb)
 
-</div>
-
 ---
 
-<h2 align="center">🛡️ О себе</h2>
+### О себе
 
 ```yaml
-identity:
-  alias: pochemu-august
-  role: ["Cybersecurity Enthusiast", "Pentester", "CTF Player"]
-  focus:
-    - Offensive Security (Red Team basics)
-    - Reverse Engineering
-    - Exploit Development
-    - Network Security
-  currently:
-    learning: "Binary Exploitation & Malware Analysis"
-    playing: "Hack The Box"
-  philosophy: >
-    Понять систему изнутри — единственный способ
-    научиться её по-настоящему защищать.
+alias: pochemu-august
+focus:
+  - Offensive Security
+  - Reverse Engineering
+  - Exploit Development
+  - Network Security
+currently: изучаю бинарную эксплуатацию и анализ малвари, играю на Hack The Box
 ```
 
 ---
 
-<h2 align="center">⚙️ Tech Arsenal</h2>
-
-<div align="center">
+### Языки
 
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white)
@@ -78,13 +47,7 @@ identity:
 ![Vue.js](https://img.shields.io/badge/Vue.js-111111?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash&logoColor=white)
 
-</div>
-
----
-
-<h2 align="center">🎯 Security Toolkit</h2>
-
-<div align="center">
+### Инструменты
 
 ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-111111?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -95,11 +58,9 @@ identity:
 ![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
 
-</div>
-
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+### Статистика
 
 <div align="center">
 
@@ -114,7 +75,7 @@ identity:
 
 ---
 
-<h2 align="center">🐍 Contribution Snake</h2>
+### Contribution Snake
 
 <div align="center">
 
@@ -122,10 +83,11 @@ identity:
 
 </div>
 
+> Требует настройки GitHub Action — инструкция в конце файла.
 
 ---
 
-<h2 align="center">🏆 Trophies</h2>
+### Trophies
 
 <div align="center">
 
@@ -135,24 +97,9 @@ identity:
 
 ---
 
-<h2 align="center">🔓 Access Log</h2>
-
 <div align="center">
 
-```diff
-+ [OK]    Connection secured
-+ [OK]    Identity verified: pochemu-august
-!  [INFO]  Status: actively hunting vulnerabilities
--  [WARN]  Do not attempt unauthorized access ;)
-```
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=120&section=footer"/>
-
-**"In a world of firewalls, be the one who understands both sides."**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=100&section=footer"/>
 
 </div>
 
