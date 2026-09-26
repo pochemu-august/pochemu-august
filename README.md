@@ -1,77 +1,63 @@
 <div align="center">
 
+# `pochemu-august`
+
 ```text
-________  ________  ________  ___  ___  _______   _____ ______   ___  ___                 ________  ___  ___  ________  ___  ___  ________  _________   
-|\   __  \|\   __  \|\   ____\|\  \|\  \|\  ___ \ |\   _ \  _   \|\  \|\  \               |\   __  \|\  \|\  \|\   ____\|\  \|\  \|\   ____\|\___   ___\ 
-\ \  \|\  \ \  \|\  \ \  \___|\ \  \\\  \ \   __/|\ \  \\\__\ \  \ \  \\\  \  ____________\ \  \|\  \ \  \\\  \ \  \___|\ \  \\\  \ \  \___|\|___ \  \_| 
-\ \   ____\ \  \\\  \ \  \    \ \   __  \ \  \_|/_\ \  \\|__| \  \ \  \\\  \|\____________\ \   __  \ \  \\\  \ \  \  __\ \  \\\  \ \_____  \   \ \  \  
- \ \  \___|\ \  \\\  \ \  \____\ \  \ \  \ \  \_|\ \ \  \    \ \  \ \  \\\  \|____________|\ \  \ \  \ \  \\\  \ \  \|\  \ \  \\\  \|____|\  \   \ \  \ 
-  \ \__\    \ \_______\ \_______\ \__\ \__\ \_______\ \__\    \ \__\ \_______\              \ \__\ \__\ \_______\ \_______\ \_______\____\_\  \   \ \__\
-   \|__|     \|_______|\|_______|\|__|\|__|\|_______|\|__|     \|__|\|_______|               \|__|\|__|\|_______|\|_______|\|_______|\_________\   \|__|
-                                                                                                                                    \|_________|        
+> SYSTEM.INIT // USER: pochemu-august
+> STATUS: ONLINE
+> ROLE: CYBERSECURITY STUDENT (YEAR 3)
 ```
 
-> **Cybersecurity Student (Year 3) | SecOps, Network Security & Linux**  
-> *`pochemu-august` // Access Granted*
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-@rocksfes-green?style=for-the-badge&logo=hackthebox&logoColor=white)](https://profile.hackthebox.com/profile/019f3686-2b9f-7378-9645-4bf4c54ecfdb)
 
----
-
-<!-- БЫСТРЫЕ ССЫЛКИ И СВЯЗЬ -->
-[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-rocksfes-green?style=for-the-badge&logo=hackthebox&logoColor=white)](https://profile.hackthebox.com/profile/019f3686-2b9f-7378-9645-4bf4c54ecfdb?utm_medium=copy_url)
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_telegram)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_linkedin)
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 </div>
 
-<br>
+### 💻 Languages & Tech Stack
 
-## 👨‍💻 `whoami`
-
-```bash
-$ id pochemu-august
-uid=1000(pochemu-august) gid=1000(cybersec) groups=1000(cybersec),27(sudo),1001(ctf-player)
-
-$ cat /etc/about_me.txt
-• Age: 20 y.o.
-• Status: 3rd year Cybersecurity Student
-• Focus: Network Infrastructure, Linux Hardening, Penetration Testing & SecOps
-• Hobbies: CTFs, TryHackMe, Hack The Box & Bash/Python Automation
+```text
+[ Core Languages ]
 ```
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-111111?style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white)
+
+```text
+[ Web & Scripting ]
+```
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-111111?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ---
 
-## 🛠️ `tools --list`
-
-| Категория | Инструменты и Технологии |
-| :--- | :--- |
-| **OS & Administration** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Debian/Kali](https://img.shields.io/badge/Kali_Linux-557CDA?style=flat-square&logo=kalilinux&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=GNU-bash&logoColor=white) |
-| **Networking** | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-167EC6?style=flat-square&logo=wireshark&logoColor=white) |
-| **Security & Auditing** | ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=flat-square&logo=burpsuite&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=white) |
-| **Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) |
-
----
-
-## 📊 `systemctl status github-stats`
+### 📊 System Metrics & Activity
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=pochemu-august&show_icons=true&theme=cyberpunk&include_all_commits=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pochemu-august&layout=compact&theme=cyberpunk&hide=html,css" />
-
-<br><br>
-
-### 📈 Activity Matrix
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pochemu-august&theme=cyberpunk&hide_border=true)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pochemu-august&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pochemu-august&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+</a>
 
 </div>
 
----
+<br />
 
 <div align="center">
 
-```text
-[ SYSTEM END OF FILE - STAY SAFE, STAY ANONYMOUS ]
-```
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+### 📬 Terminal Connection
+
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_telegram)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guts5612@gmail.com)
 
 </div>
