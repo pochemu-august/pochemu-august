@@ -40,12 +40,12 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pochemu-august&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9&ring_color=39ff14"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pochemu-august&layout=donut-vertical&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9"/>
+<img width="49%" src="./profile/stats.svg"/>
+<img width="49%" src="./profile/top-langs.svg"/>
 
-<img width="100%" src="https://streak-stats.demolab.com/?user=pochemu-august&theme=dark&hide_border=true&background=0d1117&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&sideNums=39ff14&sideLabels=c9d1d9"/>
+<img width="100%" src="./profile/streak.svg"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pochemu-august&theme=react-dark&hide_border=true&bg_color=0d1117&color=39ff14&line=39ff14&point=ffffff&area=true&area_color=39ff14"/>
+<img width="100%" src="https://raw.githubusercontent.com/pochemu-august/pochemu-august/output/activity-graph.svg"/>
 
 </div>
 
@@ -58,6 +58,8 @@
 <img src="https://raw.githubusercontent.com/pochemu-august/pochemu-august/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
 
 </div>
+
+> Требует настройки GitHub Action — инструкция в конце файла.
 
 ---
 
