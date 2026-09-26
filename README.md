@@ -122,6 +122,7 @@ identity:
 
 </div>
 
+
 ---
 
 <h2 align="center">🏆 Trophies</h2>
@@ -150,3 +151,9 @@ identity:
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=120&section=footer"/>
+
+**"In a world of firewalls, be the one who understands both sides."**
+
+</div>
+
+---
