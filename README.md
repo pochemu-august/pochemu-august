@@ -1,89 +1,77 @@
 <div align="center">
 
 ```text
-               _                         _                     _ 
-  ___ ___  ___| |__   ___  _ __ ___  _  | | __ _ _   _  __ _  | |
- / __/ _ \/ __| '_ \ / _ \| '_ ` _ \| | | |/ _` | | | |/ _` | | |
-| (_| (_) \__ \ | | | (_) | | | | | |_| | | (_| | |_| | (_| |_|_|
- \___\___/|___/_| |_|\___/|_| |_| |_(_)_|_|\__,_|\__,_|\__, (_)(_)
-                                                       |___/      
+________  ________  ________  ___  ___  _______   _____ ______   ___  ___                 ________  ___  ___  ________  ___  ___  ________  _________   
+|\   __  \|\   __  \|\   ____\|\  \|\  \|\  ___ \ |\   _ \  _   \|\  \|\  \               |\   __  \|\  \|\  \|\   ____\|\  \|\  \|\   ____\|\___   ___\ 
+\ \  \|\  \ \  \|\  \ \  \___|\ \  \\\  \ \   __/|\ \  \\\__\ \  \ \  \\\  \  ____________\ \  \|\  \ \  \\\  \ \  \___|\ \  \\\  \ \  \___|\|___ \  \_| 
+\ \   ____\ \  \\\  \ \  \    \ \   __  \ \  \_|/_\ \  \\|__| \  \ \  \\\  \|\____________\ \   __  \ \  \\\  \ \  \  __\ \  \\\  \ \_____  \   \ \  \  
+ \ \  \___|\ \  \\\  \ \  \____\ \  \ \  \ \  \_|\ \ \  \    \ \  \ \  \\\  \|____________|\ \  \ \  \ \  \\\  \ \  \|\  \ \  \\\  \|____|\  \   \ \  \ 
+  \ \__\    \ \_______\ \_______\ \__\ \__\ \_______\ \__\    \ \__\ \_______\              \ \__\ \__\ \_______\ \_______\ \_______\____\_\  \   \ \__\
+   \|__|     \|_______|\|_______|\|__|\|__|\|_______|\|__|     \|__|\|_______|               \|__|\|__|\|_______|\|_______|\|_______|\_________\   \|__|
+                                                                                                                                    \|_________|        
 ```
 
-`3rd Year Cybersecurity Student` • `20 y.o.` • `Network & SecOps Enthusiast`
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00FF66&center=true&vCenter=true&width=530&lines=System.out.println(%22Welcome+to+my+terminal%22);;Initializing+security+protocol...;Focus:+Networks+%7C+Linux+%7C+Pentesting;Looking+for+Junior+%2F+Internship+roles...)](https://git.io/typing-svg)
-
-</div>
+> **Cybersecurity Student (Year 3) | SecOps, Network Security & Linux**  
+> *`pochemu-august` // Access Granted*
 
 ---
 
-### 👨‍💻 `whoami`
+<!-- БЫСТРЫЕ ССЫЛКИ И СВЯЗЬ -->
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-rocksfes-green?style=for-the-badge&logo=hackthebox&logoColor=white)](https://profile.hackthebox.com/profile/019f3686-2b9f-7378-9645-4bf4c54ecfdb?utm_medium=copy_url)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_telegram)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_linkedin)
+
+</div>
+
+<br>
+
+## 👨‍💻 `whoami`
 
 ```bash
-[august@kali ~]$ cat profile.json
-{
-  "user": "pochemu-august",
-  "status": "Securing Systems & Learning Security Ops",
-  "education": "Cybersecurity / 3rd Year (20 y.o.)",
-  "interests": ["Network Security", "Linux Hardening", "CTF / HTB", "Automation Scripting"],
-  "current_focus": "Infrastructure & Offensive/Defensive Security",
-  "open_to": "Junior / Internship opportunities"
-}
+$ id pochemu-august
+uid=1000(pochemu-august) gid=1000(cybersec) groups=1000(cybersec),27(sudo),1001(ctf-player)
+
+$ cat /etc/about_me.txt
+• Age: 20 y.o.
+• Status: 3rd year Cybersecurity Student
+• Focus: Network Infrastructure, Linux Hardening, Penetration Testing & SecOps
+• Hobbies: CTFs, TryHackMe, Hack The Box & Bash/Python Automation
 ```
 
 ---
 
-### 🛡️ Arsenal & Technologies
+## 🛠️ `tools --list`
 
-**Languages & Scripting:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-
-**Networking & OS:**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-**Security Platforms & Cyber:**  
-![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-22252E?style=for-the-badge&logo=tryhackme&logoColor=red)
-![Wireshark](https://img.shields.io/badge/Wireshark-167DA4?style=for-the-badge&logo=wireshark&logoColor=white)
+| Категория | Инструменты и Технологии |
+| :--- | :--- |
+| **OS & Administration** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Debian/Kali](https://img.shields.io/badge/Kali_Linux-557CDA?style=flat-square&logo=kalilinux&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=GNU-bash&logoColor=white) |
+| **Networking** | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-167EC6?style=flat-square&logo=wireshark&logoColor=white) |
+| **Security & Auditing** | ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=flat-square&logo=burpsuite&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=white) |
+| **Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) |
 
 ---
 
-### 🚩 Cyber Platforms
+## 📊 `systemctl status github-stats`
 
 <div align="center">
 
-[![Hack The Box Profile](https://img.shields.io/badge/Hack%20The%20Box-rocksfes-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/rocksfes)
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=pochemu-august&show_icons=true&theme=cyberpunk&include_all_commits=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pochemu-august&layout=compact&theme=cyberpunk&hide=html,css" />
 
-*(Для подключения динамического виджета HTB вставьте свой User ID в код)*
+<br><br>
+
+### 📈 Activity Matrix
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pochemu-august&theme=cyberpunk&hide_border=true)
 
 </div>
 
 ---
 
-### 📊 System Telemetry & GitHub Stats
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pochemu-august&show_icons=true&theme=cyberpunk&hide_border=true&bg_color=0D1117&title_color=00FF66&icon_color=00FF66&text_color=8B949E" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pochemu-august&layout=compact&theme=cyberpunk&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=8B949E" />
-
-<br/>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pochemu-august&theme=cyberpunk&hide_border=true&background=0D1117&ring=00FF66&fire=00FF66&currStreakLabel=00FF66)
-
-</div>
-
----
-
-### 📬 Connect with me
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/user48393)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guts5612@gmail.com)
+```text
+[ SYSTEM END OF FILE - STAY SAFE, STAY ANONYMOUS ]
+```
 
 </div>
