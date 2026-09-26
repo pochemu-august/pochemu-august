@@ -6,31 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=root%40pochemu-august%3A~%23+access+granted;Pentester+%7C+Reverse+Engineer+%7C+CTF+player;sudo+rm+-rf+%2Fvulnerabilities" alt="Typing SVG" />
 </a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=pochemu-august&label=PROFILE%20VIEWS&style=flat-square&color=39ff14&labelColor=0d1117)
-
 </div>
-
----
-
-### Connect
-
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/user48393)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guts5612@gmail.com)
-[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-@rocksfes-green?style=for-the-badge&logo=hackthebox&logoColor=white)](https://profile.hackthebox.com/profile/019f3686-2b9f-7378-9645-4bf4c54ecfdb)
-
----
-
-### О себе
-
-```yaml
-alias: pochemu-august
-focus:
-  - Offensive Security
-  - Reverse Engineering
-  - Exploit Development
-  - Network Security
-currently: изучаю бинарную эксплуатацию и анализ малвари, играю на Hack The Box
-```
 
 ---
 
@@ -64,12 +40,12 @@ currently: изучаю бинарную эксплуатацию и анали�
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pochemu-august&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pochemu-august&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pochemu-august&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9&ring_color=39ff14"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pochemu-august&layout=donut-vertical&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pochemu-august&theme=dark&hide_border=true&background=0d1117&ring=39ff14&fire=39ff14&currStreakLabel=39ff14"/>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=pochemu-august&theme=dark&hide_border=true&background=0d1117&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&sideNums=39ff14&sideLabels=c9d1d9"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pochemu-august&theme=react-dark&hide_border=true&bg_color=0d1117&color=39ff14&line=39ff14&point=ffffff"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pochemu-august&theme=react-dark&hide_border=true&bg_color=0d1117&color=39ff14&line=39ff14&point=ffffff&area=true&area_color=39ff14"/>
 
 </div>
 
@@ -83,21 +59,13 @@ currently: изучаю бинарную эксплуатацию и анали�
 
 </div>
 
-> Требует настройки GitHub Action — инструкция в конце файла.
-
----
-
-### Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pochemu-august&theme=algolia&no-frame=true&margin-w=10&column=7"/>
-
-</div>
-
 ---
 
 <div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/user48393)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guts5612@gmail.com)
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-@rocksfes-green?style=for-the-badge&logo=hackthebox&logoColor=white)](https://profile.hackthebox.com/profile/019f3686-2b9f-7378-9645-4bf4c54ecfdb)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=100&section=footer"/>
 
